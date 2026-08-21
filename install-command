@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+cp refresh-roon /opt/homebrew/bin/refresh-roon
+chmod +x /opt/homebrew/bin/refresh-roon
